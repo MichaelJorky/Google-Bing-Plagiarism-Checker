@@ -10,8 +10,9 @@
 
 Berikut contoh tampilan antarmuka aplikasi:
 
-![Google Plagiarism Checker](assets/Google%20Plagiarism%20Checker.jpg)
-
+<div align="center">
+  <img src="./assets/Google & Bing Plagiarism Checker.jpg" alt="Google & Bing Plagiarism Checker" width="470" height="307">
+</div>
 ---
 
 ## 🖥️ Sistem yang Didukung
