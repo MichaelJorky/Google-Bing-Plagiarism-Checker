@@ -1,4 +1,4 @@
-# Google & Bing Plagiarism Checker (Windows)
+# Google & Bing Plagiarism Checker
 
 **Google & Bing Plagiarism Checker** adalah aplikasi desktop khusus **Windows** yang digunakan untuk mengecek tingkat keaslian teks dengan membandingkannya langsung melalui **Google Search** dan **Bing Search**. Aplikasi ini dirancang untuk membantu pengguna memastikan konten tetap original sebelum dipublikasikan.
 
