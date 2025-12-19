@@ -53,7 +53,7 @@ Berikut contoh tampilan antarmuka aplikasi:
 
   * Paste dari clipboard
   * Load file teks
-  * Simpan laporan ke file
+  * Simpan hasil edit ke file
 
 * ⚡ **Antarmuka Sederhana**
 
